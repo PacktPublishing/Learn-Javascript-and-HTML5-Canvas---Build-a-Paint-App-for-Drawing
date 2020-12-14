@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/learn-javascript-and-html5-canvas-build-a-paint-app-for-drawing-video/9781838820091)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Learn-Javascript-and-HTML5-Canvas---Build-a-Paint-App-for-Drawing
 Code repository for Learn Javascript and HTML5 Canvas - Build a Paint App for Drawing, Published by Packt
 # Learn Javascript and HTML5 Canvas Build a Paint App for Drawing
